@@ -4,4 +4,4 @@
 
 ## About
 
-Short coding projects designed to assist teaching in geology and the Earth sciences. Currently focused on structural geology.
+Short coding projects designed to assist teaching in geology and the Earth sciences. Currently focused on structural geology and igneous petrology.
