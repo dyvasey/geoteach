@@ -4,9 +4,7 @@
 
 ## About
 
-Short coding projects designed to assist teaching in geology and the Earth sciences. Currently focused on structural geology and igneous petrology. Jupyter notebooks for each of these topics are available in their respective directories.
-
-
+Short coding projects designed to assist teaching in geology and the Earth sciences. Currently focused on structural geology and igneous petrology. Jupyter notebooks for each of these topics are available in their respective directories. Designed as supplements for lab courses at UC Davis.
 
 ### List of Current Topics ###
 
