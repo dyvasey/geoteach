@@ -1,0 +1,11 @@
+name: geoteach
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib
+  - numpy
+  - jupyter
+  - pandas
+  - mpltern
+prefix: C:\Users\dyvas\miniconda3\envs\geoteach
