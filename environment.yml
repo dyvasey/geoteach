@@ -7,5 +7,6 @@ dependencies:
   - numpy
   - jupyter
   - pandas
+  - scipy
   - mpltern
 prefix: C:\Users\dyvas\miniconda3\envs\geoteach
